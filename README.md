@@ -1,4 +1,7 @@
 # Minima
+
+> I added some own code.
+
 An undoubtedly simple and lightweight dark/light mode theme for Hexo.
 
 ![Minima preview, device image by Freepik](https://adisaktijrs.github.io/2020/10/11/Hexo-Minima-Theme-v1-0-Officially-Released/minima.jpg)

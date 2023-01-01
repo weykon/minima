@@ -13,6 +13,7 @@ and game maker (game design, it's important for keeping pure soul of evolution o
 #menu
 menu: 
     About: /About
+    Tags : /tags/
 #index/main page max show posts (in number)
 max_post: 8
 
