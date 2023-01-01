@@ -1,0 +1,52 @@
+#title in header
+title: "Hi!"
+
+#main info
+#owner
+owner: "I am Weykon"
+email: 635883092@qq.com
+info: "A web developer from China 🇨🇳"
+#description
+desc: "I'm currently learning Rust and Machine learning (Python)
+and game maker (game design, it's important for keeping pure soul of evolution of fun to its fun)."
+
+#menu
+menu: 
+    About: /About
+#index/main page max show posts (in number)
+max_post: 8
+
+# Colors use hex color without #
+# Theme color
+tcolor: 0FA0CE
+
+# Define path to user css
+#(could be also located outside of theme)
+# Relative to source/ directory
+usercss: css/user.css
+
+# social profile at the footer/bottom
+footer: true
+placename: Earth
+github: https://github.com/weykon
+linkedin: https://www.linkedin.com/in/%E6%96%87%E8%81%AA-%E5%AD%94-986175251/
+
+# Misc
+nanobar: /js/nanobar.min.js
+switch_light: ☀️
+switch_dark: 🌑
+
+# favicon
+favicon: /images/favicon.png
+# thumbnail
+thumbnail: /images/thumbnail.jpg
+
+article:
+  thumbnail: true
+
+# DISQUS comments (sign up to Disqus to get disqus_shortname)
+disqus_enabled: false
+disqus_shortname: weykon-page
+
+giscus:
+  enable: true
